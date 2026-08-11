@@ -1,0 +1,2 @@
+# Vercel redirects
+/blog/:path*/ /blog/:path*.html 200
